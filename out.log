@@ -6885,3 +6885,4 @@ java.net.UnknownHostException: javarush.ru
 2021-07-13 09:04:52 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2021-07-13 09:04:52 INFO  ApacheHttpClient.startGA(36) - GAService started.
 2021-07-13 09:04:52 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+2021-07-13 09:05:52 INFO  ApacheHttpClient.sendEvent(535) - responseCode = 200
