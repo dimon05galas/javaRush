@@ -16,7 +16,6 @@ public class Solution {
         String url = reader.readLine();
 
         String[] parameters = url.substring(url.indexOf("?")+1).split("&");
-
         String stringValues = "";
         String objValue = "";
 
